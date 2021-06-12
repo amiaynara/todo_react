@@ -1,0 +1,22 @@
+.form{
+    padding: 2rem;
+    display: flex;
+    
+}
+.input{
+    font-size: 1.6rem;
+    padding: 0.3rem;
+    border: none;
+    margin-right: 0.5rem;
+    border-radius: 1rem;
+    outline: none;
+    padding-left: 1rem;
+    width: 80%;
+}
+.button{
+    font-size: 1.6rem;
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    width: 20%;
+    border-radius: 1rem;
+}
